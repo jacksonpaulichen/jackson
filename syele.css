@@ -1,3 +1,16 @@
-body {
-    background-color: #383D58;
+header{
+    background-color: #000000;
+    color : #FFFFFF;
+    display: flex;
+}
+.cabeçalho-image {
+width:20%
+}
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+{
+    margin: 0 16px;
+    padding: 24px 0;
 }
